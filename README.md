@@ -1,6 +1,6 @@
 # Projeto "Ensino para Todos"
 
-![Ensino para Todos]
+[Ensino para Todos]
 
 Bem-vindo ao projeto "Ensino para Todos" - uma iniciativa fictícia de uma ONG focada em proporcionar educação acessível a todos. Este projeto evoluiu de uma única página estática, na fase inicial, para um site mais robusto e visualmente atraente na segunda parte.
 

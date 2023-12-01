@@ -34,7 +34,7 @@ Na segunda parte, expandimos significativamente o projeto, adicionando diversas 
 
 ## Relatório Detalhado
 
-Para informações detalhadas sobre a estrutura do código, implementações específicas e decisões de design, consulte o [Relatório Detalhado](link_para_relatorio_separado).
+Para informações detalhadas sobre a estrutura do código, implementações específicas e decisões de design, consulte o [Relatório Detalhado](https://github.com/jjguilherme/Projeto2/blob/main/Relat%C3%B3rio.txt).
 
 Divirta-se explorando o site e participe do movimento "Ensino para Todos"!
 
